@@ -1,7 +1,0 @@
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\obj\x86\Debug\FindPair.Form1.resources
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\obj\x86\Debug\FindPair.Properties.Resources.resources
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\obj\x86\Debug\FindPair.csproj.GenerateResource.Cache
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\bin\Debug\FindPair.exe
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\bin\Debug\FindPair.pdb
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\obj\x86\Debug\FindPair.exe
-c:\users\lenovo\documents\visual studio 2010\Projects\FindPair\FindPair\obj\x86\Debug\FindPair.pdb
