@@ -11,11 +11,10 @@ namespace FindPair
 {
     public partial class Form1 : Form
     {
-        Bitmap PictureA = new Bitmap(Properties.Resources.А);
         Bitmap[] image1 = new Bitmap[11];
         int step = 0;
         int[,] Mas = new int[4, 5];
-        int razm = 0, CurX = -1, CurY = -1, PrevX = -1, PrevY = -1, Score, turn, TimeScore = 100;
+        int razm = 0, CurX = -1, CurY = -1, PrevX = -1, PrevY = -1, Score, turn, TimeScore;
         bool flag;
 
         public Form1()
@@ -59,6 +58,7 @@ namespace FindPair
                 razm = 4;
             else
                 razm = 5;
+            pictureBox1.Size = new System.Drawing.Size(360, 90*razm);
             TimeScore = 50 * razm;
             Draw();
         }
